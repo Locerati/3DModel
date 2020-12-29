@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Plot2DViewer.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Plot3DViewer.cpp
+C:\Users\Lenovo\source\repos\MOKG\3DModel\Plot2DViewer\Camera2D.h(14,17): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\MOKG\3DModel\Plot2DViewer\Camera2D.h(19,17): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\MOKG\3DModel\Plot2DViewer\AffineTransform.h(107,4): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\Lenovo\source\repos\MOKG\3DModel\Plot2DViewer\AffineTransform.h(108,7): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\Lenovo\source\repos\MOKG\3DModel\Plot2DViewer\AffineTransform.h(109,10): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\Lenovo\source\repos\MOKG\3DModel\Plot2DViewer\Scene2D.h(37,10): warning C4101: y: неиспользованная локальная переменная
+  Plot2DViewer.vcxproj -> C:\Users\Lenovo\source\repos\MOKG\3DModel\Debug\Plot3DViewer.exe
